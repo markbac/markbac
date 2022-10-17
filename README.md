@@ -14,7 +14,7 @@ For more about me see https://www.linkedin.com/in/mdbacon/
 
 <p>
   <a href="https://twitter.com/streakymdb">
-    <img src="https://img.shields.io/twitter/follow/BOLT2938?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/streakymdb?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/mdbacon/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
