@@ -22,7 +22,7 @@ For more about me see https://www.linkedin.com/in/mdbacon/
 </p>
 
 ### 🛠 Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/markbac/markbac/main//visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/markbac/markbac/main/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/markbac/markbac/main/python.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/markbac/markbac/main/git.png" />
 <img align="left" alt="Solution Architecture" width="26px" src="https://raw.githubusercontent.com/markbac/markbac/main/SA.jiff" />
