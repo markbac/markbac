@@ -31,10 +31,10 @@ For more about me see https://www.linkedin.com/in/mdbacon/
 <img align="left" alt="Cloud Architecture" width="26px" src="https://raw.githubusercontent.com/markbac/markbac/main/cloud-arch.png" />
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/markbac/markbac/main/c.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/markbac/markbac/main/linux.png" />
-<img align="left" alt="IoT" width="26px" src="https://raw.githubusercontent.com/markbac/markbac/main/iot.png" />
+<img align="left" alt="IoT" width="26px" src="https://raw.githubusercontent.com/markbac/markbac/main/iot.jpg" />
 <img align="left" alt="REST" width="26px" src="https://raw.githubusercontent.com/markbac/markbac/main/REST.png" />
 <img align="left" alt="OpenAPI" width="26px" src="https://raw.githubusercontent.com/markbac/markbac/main/open-api.png" />
-<img align="left" alt="Async-API" width="26px" src="https://raw.githubusercontent.com/markbac/markbac/main/asyncapi.png" />
+<img align="left" alt="Async-API" width="26px" src="https://raw.githubusercontent.com/markbac/markbac/main/asynapi.png" />
 
 
 </br>
