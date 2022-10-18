@@ -21,5 +21,5 @@ For more about me see https://www.linkedin.com/in/mdbacon/
   </a>
 </p>
 
-
+![Markbac's github stats](https://github-readme-stats.vercel.app/api?username=markbac&count_private=true&show_icons=true&theme=tokyonight)
 ![Markbac's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markbac&layout=compact)
