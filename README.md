@@ -53,10 +53,15 @@ For more about me see https://www.linkedin.com/in/mdbacon/
 
 
 https://markbac.github.io/
+</br>
 https://markbac.github.io/GCP-4Words/
+</br>
 https://markbac.github.io/GCP-Sketchnote/
+</br>
 https://markbac.github.io/Glossary/
+</br>
 https://markbac.github.io/WWFC/
+</br>
 
 
 #https://github-profile-trophy.vercel.app/?username=markbac&theme=nord
