@@ -47,13 +47,8 @@ For more about me see https://www.linkedin.com/in/mdbacon/
 
 ![Markbac's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markbac&layout=compact)
 
-<object data="https://github.com/markbac/markbac/raw/main/MarkBaconIntro.pdf" width="700px" height="700px">
-    <embed src="https://github.com/markbac/markbac/raw/main/MarkBaconIntro.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/markbac/markbac/raw/main/MarkBaconIntro.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<img align="left" src="https://raw.githubusercontent.com/markbac/markbac/main/Slide1.png" />
+<img align="left" src="https://raw.githubusercontent.com/markbac/markbac/main/Slide2.png" />
 
-
-<embed src="https://github.com/markbac/markbac/raw/main/MarkBaconIntro.pdf" type="application/pdf">
 
 #https://github-profile-trophy.vercel.app/?username=markbac&theme=nord
