@@ -47,8 +47,8 @@ For more about me see https://www.linkedin.com/in/mdbacon/
 
 ![Markbac's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markbac&layout=compact)
 
-<img align="left" src="https://raw.githubusercontent.com/markbac/markbac/main/Slide1.png" />
-<img align="left" src="https://raw.githubusercontent.com/markbac/markbac/main/Slide2.png" />
+<img align="left" src="https://raw.githubusercontent.com/markbac/markbac/main/Slide1.PNG" />
+<img align="left" src="https://raw.githubusercontent.com/markbac/markbac/main/Slide2.PNG" />
 
 
 #https://github-profile-trophy.vercel.app/?username=markbac&theme=nord
