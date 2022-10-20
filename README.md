@@ -53,4 +53,7 @@ For more about me see https://www.linkedin.com/in/mdbacon/
     </embed>
 </object>
 
+
+<embed src="https://github.com/markbac/markbac/raw/main/MarkBaconIntro.pdf" type="application/pdf">
+
 #https://github-profile-trophy.vercel.app/?username=markbac&theme=nord
