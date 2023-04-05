@@ -2,15 +2,20 @@
 
 For more about me see https://www.linkedin.com/in/mdbacon/
 
+- 🔭 I’m currently working on a demand flexibility project and smart energy management
+- 🌱 I’m currently learning more about GCP 
+- 💬 Ask me about: IoT, Telecoms, Architecture 
+- 📫 How to reach me: via social
+- ⚡ Fun fact: I coach my youngest sons football (soccer) team
 
-- 📑 Check out ....
-- 🔭 I’m currently working on a ....
-- 🌱 I’m currently learning ....
-- 👯 I’m looking to collaborate on ....
-- 🤔 I’m looking for help with ....
-- 💬 Ask me about: ....
-- 📫 How to reach me: ....
-- ⚡ Fun fact: ....
+
+Attending Google I/O 23 
+
+<p>
+  <a href="https://io.google/2023/">
+    <img src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg" />
+  </a>
+</p>
 
 <p>
   <a href="https://twitter.com/streakymdb">
