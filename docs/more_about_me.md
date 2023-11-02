@@ -1,5 +1,17 @@
+# More about me
+
+## Products
 
 ```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+```
+
 mindmap
   products
     Mobile roaming gateway
@@ -13,3 +25,5 @@ mindmap
     Alarms system
     DSR Management Software
 ```
+
+## Technologies
