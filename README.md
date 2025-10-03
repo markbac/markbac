@@ -51,17 +51,4 @@ For more about me see https://www.linkedin.com/in/mdbacon/
 <img align="left" src="https://raw.githubusercontent.com/markbac/markbac/main/PersonalProfile/Slide1.PNG" />
 <img align="left" src="https://raw.githubusercontent.com/markbac/markbac/main/PersonalProfile/Slide2.PNG" />
 
-</br>
-</br>
-https://markbac.github.io/
-</br>
-https://markbac.github.io/GCP-4Words/
-</br>
-https://markbac.github.io/GCP-Sketchnote/
-</br>
-https://markbac.github.io/Glossary/
-</br>
-https://markbac.github.io/WWFC/
-</br>
-</br>
 
