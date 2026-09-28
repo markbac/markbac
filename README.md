@@ -6,7 +6,6 @@ For more about me see https://www.linkedin.com/in/mdbacon/
 - 📫 How to reach me: via social
 - ⚡ Fun fact: I coach my youngest sons football (soccer) team
 
-
 <p>
   <a href="https://io.google/2023/">
     <img src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg" />
@@ -21,6 +20,24 @@ For more about me see https://www.linkedin.com/in/mdbacon/
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
+
+### 🛠️ Open-Source Repositories & Developer Kits
+
+#### 📚 Technical Documentation & DocOps Kits
+- 🏗️ [**`py-c4-exporter`**](https://github.com/markbac/py-c4-exporter) — Structurizr & C4 Architecture diagram exporter (SVG, PNG, PlantUML, Mermaid).
+- 📄 [**`py-doc2docx`**](https://github.com/markbac/py-doc2docx) — Converts Markdown technical documentation to Word (`.docx`) with template support.
+- 📊 [**`py-doc2slides`**](https://github.com/markbac/py-doc2slides) — Converts Markdown documentation to PowerPoint (`.pptx`) slide decks.
+- ✍️ [**`py-doclint`**](https://github.com/markbac/py-doclint) — Technical writing style & glossary capitalization validator.
+- 🛡️ [**`py-sbomkit`**](https://github.com/markbac/py-sbomkit) — Software Bill of Materials (SBOM) generator (CycloneDX JSON & Markdown).
+- 📜 [**`py-logkit`**](https://github.com/markbac/py-logkit) — Enhanced Python logging framework with color console & file log tracing.
+
+#### 🛰️ Cellular & IoT Telemetry Suites
+- 📡 [**`quectel-bc660k-dashboard`**](https://github.com/markbac/quectel-bc660k-dashboard) — Quectel BC660K LTE Cat NB2 signal monitor, PSM power saving configurator, and ping latency benchmark suite.
+- 🔒 [**`lwm2m-bc660k-dtls`**](https://github.com/markbac/lwm2m-bc660k-dtls) — LwM2M DTLS PSK security client studio & OMA XML object manager.
+- 🔌 [**`omni-uart`**](https://github.com/markbac/omni-uart) — Schema-driven UART protocol tool with interactive CLI and web interface.
+- 🎯 [**`reqtool`**](https://github.com/markbac/reqtool) — Requirements capture, tracking, and management tool.
+
+---
 
 ### 🛠 Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/markbac/markbac/main/images/visual-studio-code.png" />
@@ -37,7 +54,6 @@ For more about me see https://www.linkedin.com/in/mdbacon/
 <img align="left" alt="OpenAPI" width="30px" src="https://raw.githubusercontent.com/markbac/markbac/main/images/open-api.png" />
 <img align="left" alt="Async-API" width="30px" src="https://raw.githubusercontent.com/markbac/markbac/main/imagessynapi.png" />
 
-
 </br>
 </br>
 
@@ -50,5 +66,3 @@ For more about me see https://www.linkedin.com/in/mdbacon/
 
 <img align="left" src="https://raw.githubusercontent.com/markbac/markbac/main/PersonalProfile/Slide1.PNG" />
 <img align="left" src="https://raw.githubusercontent.com/markbac/markbac/main/PersonalProfile/Slide2.PNG" />
-
-
