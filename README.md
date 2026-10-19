@@ -2,7 +2,8 @@
 
 For more about me see https://www.linkedin.com/in/mdbacon/
 
-- 💬 Ask me about: IoT, Telecoms, Architecture 
+- 💬 Ask me about: IoT, Telecoms, Architecture
+- 🌐 Writing: [markbac.github.io](https://markbac.github.io/)
 - 📫 How to reach me: via social
 - ⚡ Fun fact: I coach my youngest sons football (soccer) team
 
@@ -23,19 +24,18 @@ For more about me see https://www.linkedin.com/in/mdbacon/
 
 ### 🛠️ Open-Source Repositories & Developer Kits
 
-#### 📚 Technical Documentation & DocOps Kits
-- 🏗️ [**`py-c4-exporter`**](https://github.com/markbac/py-c4-exporter) — Structurizr & C4 Architecture diagram exporter (SVG, PNG, PlantUML, Mermaid).
-- 📄 [**`py-doc2docx`**](https://github.com/markbac/py-doc2docx) — Converts Markdown technical documentation to Word (`.docx`) with template support.
-- 📊 [**`py-doc2slides`**](https://github.com/markbac/py-doc2slides) — Converts Markdown documentation to PowerPoint (`.pptx`) slide decks.
-- ✍️ [**`py-doclint`**](https://github.com/markbac/py-doclint) — Technical writing style & glossary capitalization validator.
-- 🛡️ [**`py-sbomkit`**](https://github.com/markbac/py-sbomkit) — Software Bill of Materials (SBOM) generator (CycloneDX JSON & Markdown).
-- 📜 [**`py-logkit`**](https://github.com/markbac/py-logkit) — Enhanced Python logging framework with color console & file log tracing.
+#### 📚 Technical Documentation & DocOps
+- 📄 [**`py-doc`**](https://github.com/markbac/py-doc) — Turns Markdown technical documentation into Word, PowerPoint, PDF, HTML and MkDocs or Starlight sites, with diagrams, C4 models and prose lint. It replaces py-doc2docx, py-doc2slides, py-doclint and py-c4-exporter.
+- 🌐 [**`markbac.github.io`**](https://github.com/markbac/markbac.github.io) — The source of [markbac.github.io](https://markbac.github.io/) and [tarf.co.uk](https://tarf.co.uk/): engineering guidelines, standards, guides, primers, a glossary, a tech radar and a blog, built with py-doc.
+- 📜 [**`py-logkit`**](https://github.com/markbac/py-logkit) — ctxlogkit: one-call Python logging with colour console output, rotating text and JSON-lines files, and syslog.
 
-#### 🛰️ Cellular & IoT Telemetry Suites
-- 📡 [**`quectel-bc660k-dashboard`**](https://github.com/markbac/quectel-bc660k-dashboard) — Quectel BC660K LTE Cat NB2 signal monitor, PSM power saving configurator, and ping latency benchmark suite.
-- 🔒 [**`lwm2m-bc660k-dtls`**](https://github.com/markbac/lwm2m-bc660k-dtls) — LwM2M DTLS PSK security client studio & OMA XML object manager.
-- 🔌 [**`omni-uart`**](https://github.com/markbac/omni-uart) — Schema-driven UART protocol tool with interactive CLI and web interface.
-- 🎯 [**`reqtool`**](https://github.com/markbac/reqtool) — Requirements capture, tracking, and management tool.
+#### 🛰️ Cellular & IoT
+- 📡 [**`quectel-bc660k-dashboard`**](https://github.com/markbac/quectel-bc660k-dashboard) — Real-time web dashboard for a Quectel BC660K NB-IoT modem: signal strength, serving and neighbouring cells, and network operators.
+- 🔌 [**`omni-uart`**](https://github.com/markbac/omni-uart) — Schema-driven UART protocol tool with an interactive CLI, a batch script runner and an auto-generated web UI.
+
+#### 🧰 Tools
+- 🩺 [**`NetworkMonitor`**](https://github.com/markbac/NetworkMonitor) — Windows network health monitor: internet connectivity, gateway and DNS probes, with a web dashboard.
+- 💻 [**`scripts-computerSetupInfo`**](https://github.com/markbac/scripts-computerSetupInfo) — Sets up a Linux, WSL or Windows machine with my preferred tools, from one set of YAML package lists.
 
 ---
 
@@ -52,7 +52,7 @@ For more about me see https://www.linkedin.com/in/mdbacon/
 <img align="left" alt="IoT" width="30px" src="https://raw.githubusercontent.com/markbac/markbac/main/images/iot.jpg" />
 <img align="left" alt="REST" width="30px" src="https://raw.githubusercontent.com/markbac/markbac/main/images/REST.png" />
 <img align="left" alt="OpenAPI" width="30px" src="https://raw.githubusercontent.com/markbac/markbac/main/images/open-api.png" />
-<img align="left" alt="Async-API" width="30px" src="https://raw.githubusercontent.com/markbac/markbac/main/imagessynapi.png" />
+<img align="left" alt="Async-API" width="30px" src="https://raw.githubusercontent.com/markbac/markbac/main/images/asynapi.png" />
 
 </br>
 </br>
