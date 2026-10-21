@@ -5,7 +5,6 @@ For more about me see https://www.linkedin.com/in/mdbacon/
 - 💬 Ask me about: IoT, Telecoms, Architecture
 - 🌐 Writing: [markbac.github.io](https://markbac.github.io/)
 - 📫 How to reach me: via social
-- ⚡ Fun fact: I coach my youngest sons football (soccer) team
 
 <p>
   <a href="https://www.linkedin.com/in/mdbacon/">
