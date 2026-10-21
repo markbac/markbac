@@ -8,12 +8,6 @@ For more about me see https://www.linkedin.com/in/mdbacon/
 - ⚡ Fun fact: I coach my youngest sons football (soccer) team
 
 <p>
-  <a href="https://io.google/2023/">
-    <img src="https://developers.google.com/static/profile/badges/events/io/2023/attendee/badge.svg" />
-  </a>
-</p>
-
-<p>
   <a href="https://www.linkedin.com/in/mdbacon/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
